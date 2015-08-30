@@ -9,3 +9,6 @@ echo $JAVA_HOME
 Adding to PATH
 export PATH=/opt/apache-maven-3.3.3/bin:$PATH
 
+mvn -v
+
+
