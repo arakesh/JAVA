@@ -1,5 +1,5 @@
 # JAVA
-JAVA in Hadoop
+
 
 Install maven on Linux or MAC
 1. Download the mvn 
