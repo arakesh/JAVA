@@ -1,4 +1,4 @@
-# JAVA
+# Coding problems are solved in java
 
 
 Install maven on Linux or MAC
