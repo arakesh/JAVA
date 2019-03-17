@@ -1,8 +1,11 @@
 # Compiled class file
 *.class
+<<<<<<< HEAD
 .idea/*
 *.iml
 out/*
+=======
+>>>>>>> 75d77554e5b862ae2cb5a33d22eeb2ecc05981a5
 
 # Log file
 *.log
